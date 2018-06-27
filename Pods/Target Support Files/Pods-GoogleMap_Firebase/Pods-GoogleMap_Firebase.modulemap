@@ -1,0 +1,6 @@
+framework module Pods_GoogleMap_Firebase {
+  umbrella header "Pods-GoogleMap_Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
